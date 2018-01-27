@@ -1,0 +1,3 @@
+mkdir charges
+cd /home/mis4470
+cp ./Downloads/inpatientCharges.csv ./Documents/charges/history
