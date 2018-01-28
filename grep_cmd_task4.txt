@@ -1,0 +1,3 @@
+head -1 inpatientCharges.csv
+grep -e ,48..., inpatientCharges.csv
+1
